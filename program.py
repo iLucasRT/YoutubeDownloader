@@ -77,5 +77,4 @@ label = Label(image=image)
 label.pack()
 label.place(x=250, y=70)
 
-
 windows.mainloop()
