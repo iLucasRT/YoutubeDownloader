@@ -45,6 +45,10 @@ text3 = Label(windows, text='Developed by Lucas Skywalker', font='10')
 text3.pack()
 text3.place(x=4, y=570)
 
+text4 = Label(windows, text='alpha 0.1')
+text4.pack()
+text4.place(x=740, y=580)
+
 link = tkinter.Entry(windows, font='10')
 link.pack()
 link.place(x=100,y=260, width=600, height=40)
