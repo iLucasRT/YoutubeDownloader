@@ -1,3 +1,4 @@
 This program is currently a beta version so it is not the final product
 
-In the current version of the program you can download videos in 720p, 1080p and 1440p. Due to the encoding used by YouTube, 1080p and 1440p videos do not have sound (momentarily)
+The current version can download any video as long as the quality selected is available.
+Due the current encoding used by youtube, videos in 1080p and 1440p haven't sound (720p works normally), this problem be solved in future updates
